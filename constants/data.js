@@ -38,8 +38,8 @@ const userData = {
     {
       title: "Technical Desk Support Engineer Intern",
       company: "Knit Technologies Pte. Ltd",
-      start: "MAY 2022",
-      end: "AUG 2022",
+      start: "MAY '22",
+      end: "AUG '22",
       companyLink: "https://knittechnologies.com/",
       desc: [
         `Deploy IT Service Management Tools to improve workflow in company`,
@@ -50,8 +50,8 @@ const userData = {
     {
       title: "Temporary Customer Services Engineer",
       company: "HKBN JOS (Singapore) Pte. Ltd",
-      start: "MAR 2019",
-      end: "MAY 2019",
+      start: "MAR '19",
+      end: "MAY '19",
       companyLink: "https://www.jos.com/",
       desc: [
         `Configure laptops by installing Windows Operating System, hardware-specific drivers, and client-specified applications`,
@@ -62,8 +62,8 @@ const userData = {
     {
       title: "Cybersecurity Intern",
       company: "Palo Alto Networks, Inc.",
-      start: "SEP 2018",
-      end: "FEB 2019",
+      start: "SEP '18",
+      end: "FEB '19",
       companyLink: "https://www.paloaltonetworks.com/",
       desc: [
         `Prepare and deliver Proof of Concepts of products`,
