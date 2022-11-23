@@ -29,7 +29,7 @@ const userData = {
     description: [
       `I am currently taking my Degree in Nanyang Technological University majoring in Computer Science.`,
       `I love to watch movies during my free time and spinning up virtual machines to test out self-hosted applications.`,
-      `I also love tinkering with computer hardware and especially like working with Raspberry Pi`,
+      `I also love tinkering with computer hardware (Desktops and small SBCs)`,
     ],
     currentProject: "This website",
     currentProjectUrl: "https://github.com/Baby-McBabyFace/gemukgemuk.com",
