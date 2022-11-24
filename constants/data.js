@@ -21,6 +21,11 @@ const userData = {
       link: "https://t.me/OZYnfoBot",
       imgUrl: "/telegram.jpg",
     },
+    {
+      title: "Simple File Sharing",
+      link: "https://file.gemukgemuk.com",
+      imgUrl: "/jirafeau.png",
+    },
 
   ],
   about: {
