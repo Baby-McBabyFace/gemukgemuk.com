@@ -42,7 +42,7 @@ export default function ContainerBlock({ children, ...customMeta }) {
         {meta.date && (
           <meta property="article:published_time" content={meta.date} />
         )}
-        <script defer data-domain="gemukgemuk.com" src="http://192.168.1.209/js/plausible.js"></script>
+        <script defer data-domain="gemukgemuk.com" src="https://analytics.gemukgemuk.com/js/plausible.js"></script>
       </Head>
       <main className="dark:bg-gray-800 w-full">
         <Navbar />
