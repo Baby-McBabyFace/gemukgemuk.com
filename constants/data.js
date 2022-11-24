@@ -26,6 +26,11 @@ const userData = {
       link: "https://file.gemukgemuk.com",
       imgUrl: "/jirafeau.png",
     },
+    {
+      title: "Plausible Analytics",
+      link: "https://analytics.gemukgemuk.com/gemukgemuk.com",
+      imgUrl: "/plausible.png",
+    },
 
   ],
   about: {
