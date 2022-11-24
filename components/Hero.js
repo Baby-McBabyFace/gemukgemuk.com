@@ -4,6 +4,7 @@ import { RainbowHighlight } from "./RainbowHighlight";
 import userData from "@constants/data";
 
 export default function Hero() {
+  <script defer data-domain="gemukgemuk.com" src="http://192.168.1.209:8000/js/plausible.js"></script>
   const colors = ["#F59E0B", "#84CC16", "#10B981", "#3B82F6"];
   return (
     <div className="flex flex-row justify-center items-start overflow-hidden">
