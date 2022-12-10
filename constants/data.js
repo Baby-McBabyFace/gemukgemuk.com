@@ -36,6 +36,11 @@ const userData = {
       link: "https://music.gemukgemuk.com/",
       imgUrl: "/mstream.png",
     },
+    {
+      title: "Owncast Stream",
+      link: "https://owncast.gemukgemuk.com/",
+      imgUrl: "/owncast.png",
+    },
 
   ],
   about: {
