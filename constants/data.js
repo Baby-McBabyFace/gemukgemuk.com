@@ -58,6 +58,18 @@ const userData = {
     {
       title: "Technical Desk Support Engineer Intern",
       company: "Knit Technologies Pte. Ltd",
+      start: "DEC '22",
+      end: "DEC '22",
+      companyLink: "https://knittechnologies.com/",
+      desc: [
+        `Set up an alert system which notifies the team about possible downtimes for supported products`,
+        `Workflow automation`,
+        `Keep the internal knowledge base updated with new information`,
+      ],
+    },
+    {
+      title: "Technical Desk Support Engineer Intern",
+      company: "Knit Technologies Pte. Ltd",
       start: "MAY '22",
       end: "AUG '22",
       companyLink: "https://knittechnologies.com/",
