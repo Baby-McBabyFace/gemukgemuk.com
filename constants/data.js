@@ -56,6 +56,19 @@ const userData = {
   },
   experience: [
     {
+      title: "Data & Processes Automation Intern",
+      company: "Republic Polytechnic",
+      start: "JUL '23",
+      end: "PRESENT",
+      companyLink: "https://www.rp.edu.sg/",
+      desc: [
+        `Ensures master data integrity in key systems as well as maintaining and cleansing data in preparation for the reports`,
+        `Analyse the business and stakeholders' needs, priorities, requirements, make recommendations and identify business process improvement opportunities such as automation or digitalisation of workflows`,
+        `Development of suitable dashboards to track the achievements of training hours against targets`,
+        `Develop in-house automation for certain routine tasks`,
+      ],
+    },
+    {
       title: "Technical Desk Support Engineer Intern",
       company: "Knit Technologies Pte. Ltd",
       start: "DEC '22",
