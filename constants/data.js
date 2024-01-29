@@ -59,7 +59,7 @@ const userData = {
       title: "Data & Processes Automation Intern",
       company: "Republic Polytechnic",
       start: "JUL '23",
-      end: "PRESENT",
+      end: "DEC '23",
       companyLink: "https://www.rp.edu.sg/",
       desc: [
         `Ensures master data integrity in key systems as well as maintaining and cleansing data in preparation for the reports`,
