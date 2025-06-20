@@ -62,9 +62,9 @@ const userData = {
       end: "PRESENT",
       companyLink: "https://www.netrust.net/",
       desc: [
-        `Ensuring seamless delivery of digital security solutions and services to clients, from onboarding to post-implementation support, in alignment with business and compliance requirements.`
-        `Manage and coordinate client engagements across various industries, delivering PKI and digital certificate services with a strong focus on customer satisfaction and operational excellence.`
-        `Deliver secure digital solutions and support to enterprise clients, ensuring timely deployment, effective communication, and high service quality.`
+        `Ensuring seamless delivery of digital security solutions and services to clients, from onboarding to post-implementation support, in alignment with business and compliance requirements.`,
+        `Manage and coordinate client engagements across various industries, delivering PKI and digital certificate services with a strong focus on customer satisfaction and operational excellence.`,
+        `Deliver secure digital solutions and support to enterprise clients, ensuring timely deployment, effective communication, and high service quality.`,
       ],
     },
     {
