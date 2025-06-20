@@ -1,7 +1,7 @@
 const userData = {
   githubUsername: "Baby-McBabyFace",
   name: "Ong Zhen Yu",
-  designation: "Undergraduate",
+  designation: "Service Delivery Consultant",
   avatarUrl: "/avatar.jpg",
   email: "ongzhenyu@protonmail.com",
   telegram: "@ozy_nfo",
@@ -47,7 +47,7 @@ const userData = {
     title:
       "I'm an undergraduate that is interested in Cybersecurity",
     description: [
-      `I am currently taking my Degree in Nanyang Technological University majoring in Computer Science.`,
+      `I have completed my Bachelors in Nanyang Technological University majoring in Computer Science.`,
       `I love to watch movies during my free time and spinning up virtual machines to test out self-hosted applications.`,
       `I also love tinkering with computer hardware (Desktops and small SBCs)`,
     ],
@@ -55,6 +55,18 @@ const userData = {
     currentProjectUrl: "https://github.com/Baby-McBabyFace/gemukgemuk.com",
   },
   experience: [
+    {
+      title: "Service Delivery Consultant",
+      company: "Netrust Pte Ltd",
+      start: "MAR '25",
+      end: "PRESENT",
+      companyLink: "https://www.netrust.net/",
+      desc: [
+        `Ensuring seamless delivery of digital security solutions and services to clients, from onboarding to post-implementation support, in alignment with business and compliance requirements.`
+        `Manage and coordinate client engagements across various industries, delivering PKI and digital certificate services with a strong focus on customer satisfaction and operational excellence.`
+        `Deliver secure digital solutions and support to enterprise clients, ensuring timely deployment, effective communication, and high service quality.`
+      ],
+    },
     {
       title: "Data & Processes Automation Intern",
       company: "Republic Polytechnic",
